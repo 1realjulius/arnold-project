@@ -5,7 +5,7 @@ export default function Home() {
     <main>
       <div className='mx-auto max-w-6xl'>
         <section>
-          <p>this is the home for ap</p>
+          <p>Enter Ur Message</p>
           <SentimentAnalysis />
         </section>
       </div>
